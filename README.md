@@ -19,9 +19,12 @@
   npm i
   ```
 
-- Run Apache and MySql
+- Run Apache and MySql, then import the db_login_practice.sql file
+
+  - Existing user username:krisna, password:muehehe
 
 - Start the API:
+
   ```
   npm run dev
   ```
