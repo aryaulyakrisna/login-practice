@@ -12,6 +12,7 @@ const register = require('./routes/register');
 // Middlewares
 app.use(cors());
 app.use(express.json());
+// const template = require('./middlewares/sanitation');
 
 app.listen(PORT, () => {
   console.log("Listening on port " + PORT);
