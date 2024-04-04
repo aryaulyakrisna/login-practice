@@ -9,7 +9,7 @@
   - DB_NAME = db_login_practice
   - DB_USER = root
   - DB_PASSWORD = ""
-  - JWT_SECRET=logipractice778989
+  - JWT_SECRET = logipractice778989
 
 - Optional, better to use a longer and more complex random string as JWT_SECRET value
 
@@ -21,7 +21,7 @@
 
 - Run Apache and MySql, then import the db_login_practice.sql file
 
-  - Existing user username:krisna, password:muehehe
+  - Existing user username = krisna, password = muehehe
 
 - Start the API:
 
