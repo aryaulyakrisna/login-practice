@@ -13,13 +13,13 @@
 
 - Optional, better to use a longer and more complex random string as JWT_SECRET value
 
-- Run Apache and MySql, then import the db_psi_eis.sql file.
-
 - Install dependencies:
 
   ```
   npm i
   ```
+
+- Run Apache and MySql
 
 - Start the API:
   ```
