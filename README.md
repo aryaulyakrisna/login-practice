@@ -4,12 +4,12 @@
 
 - Fill in all the required credentials:
 
-  - PORT = 4000
+  - PORT = 4000 // depends on existing port on your machine
   - DB_HOST = localhost
   - DB_NAME = db_login_practice
   - DB_USER = root
   - DB_PASSWORD = ""
-  - JWT_SECRET = logipractice778989
+  - JWT_SECRET = logipractice778989 // better make it long and just a random string
 
 - Optional, better to use a longer and more complex random string as JWT_SECRET value
 
